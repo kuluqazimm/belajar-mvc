@@ -1,0 +1,30 @@
+ private $atl = [
+        [
+            'nama' => 'Kevin Sanjaya',
+            'umur' => 25,
+            'asal' => 'Banyuwangi',
+            'ranking' => 1,
+            'cabang' => 'Bulutangkis ganda putra'
+        ],
+        [
+            'nama' => 'Anthony Sinisuka Ginting',
+            'umur' => 25,
+            'asal' => 'Cirebon',
+            'ranking' => 8,
+            'cabang' => 'Bulutangkis tunggal putra'
+        ],
+        [
+            'nama' => 'Mohammad Ahsan',
+            'umur' => 35,
+            'asal' => 'Palembang',
+            'ranking' => 2,
+            'cabang' => 'Bulutangkis ganda putra'
+        ],
+        [
+            'nama' => 'Lalu Muhammad Zohri',
+            'umur' => 24,
+            'asal' => 'Lombok',
+            'ranking' => 23,
+            'cabang' => 'Atletik sprint'
+        ]
+    ];
